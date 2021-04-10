@@ -12,6 +12,12 @@ body {
     margin-left: 30px;
 }
 
+.navbar-dark .navbar-brand:hover{
+    color:#79C4CD;
+}
+
+
+
 
 .navbar-dark .navbar-nav .nav-link{
     font-family: oswald;
@@ -20,6 +26,11 @@ body {
     padding-right: 30px;
     
     
+    
+}
+
+.nav-item1{
+    margin-right: 50px;
 }
 
 
@@ -30,6 +41,18 @@ body {
     color:#DC4625;
 }
 
+.dropdown-menu {
+    background-color: #1C2128 !important;
+}
+
+.dropdown-item{
+    color: #C9AA8B;
+
+}
+
+.navbar .nav-item .dropdown-menu .dropdown-item:hover{
+    background-color:#DC4625;
+}
 .hero {
     position: relative;
     height: 550px;
@@ -198,6 +221,7 @@ body {
         flex-direction: column;
         margin-top: 800px;
         margin-left: 40px;
+        
       
         
     }
@@ -238,6 +262,7 @@ h3,a {
 
 h3,a:hover {
     color: #DC4625;
+    text-decoration: none;
 }
 
 h4 {
@@ -383,7 +408,7 @@ h5 {
 
 @media screen and (max-width:600px) {
     .copyright {
-        height: 30px;
+        height: 25px;
         padding-left: 250px;
         margin-top: 3px;
         
