@@ -219,7 +219,7 @@ body {
 
     .flexbox-container {
         flex-direction: column;
-        margin-top: 800px;
+        margin-top: 550px;
         margin-left: 40px;
         
       
@@ -235,7 +235,16 @@ body {
     border-radius: 10px;
     
     
-}    
+}  
+
+@media screen and (max-width:600px) {
+    .flexbox-item{
+        margin: 25px 20px;
+
+    }
+    
+    
+}
 
 .flexbox-item-1 {
     min-height: 500px;
@@ -243,6 +252,8 @@ body {
     line-height: 1.5;
   
 }
+
+
 
 
 
@@ -346,7 +357,7 @@ h5 {
 
 @media screen and (max-width:600px) {
     .footer {
-        margin-top: 900px;
+        margin-top: 700px;
         
     }
 }
@@ -436,6 +447,7 @@ h6 {
         font-size: 18px;
         margin-top: 0px;
         padding-top: 0px;
+        
     
     }
 }
