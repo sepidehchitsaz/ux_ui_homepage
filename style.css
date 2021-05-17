@@ -203,6 +203,7 @@ body {
    
 }
 
+
 @media screen and (max-width: 600px) {
     .title p{
         padding-top: 50px;
@@ -350,13 +351,15 @@ h5 {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: -70px;
-    margin-bottom: -600px; 
+    margin-top: -50px;
+    margin-bottom: -600px;
+    padding-bottom: 50px; 
+
 }
 
 .img-responsive img{
     /* max-width: 100%; */
-    width: 250px;
+    width: 300px;
     border-radius: 10px 10px 10px 10px;
    
 }
@@ -403,14 +406,16 @@ h5 {
     justify-content: center;
     margin-top: 520px;
     margin-bottom: -800px;
-    margin-left: 115px;  
+    margin-left: 95px;  
     margin-right: 100px;
+    padding-bottom: 50px;
 }
 
 .img-responsive2 img{
     /* max-width: 100%; */
-    width: 250px;
+    width: 350px;
     border-radius: 10px 10px 10px 10px;
+  
    
 }
 
@@ -454,15 +459,15 @@ h5 {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 840px;
+    margin-top: 820px;
     margin-bottom: -800px;
-    margin-left: 115px;  
+    margin-left: 130px;  
     margin-right: 100px;
 }
 
 .img-responsive3 img{
     /* max-width: 100%; */
-    width: 250px;
+    width: 200px;
     border-radius: 10px 10px 10px 10px;
    
 }
@@ -480,7 +485,7 @@ h5 {
 }
 
 .text-responsive3 {
-    padding-left: 100px;
+    padding-left: 160px;
 }
 
 .text-responsive3 button  {
