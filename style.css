@@ -15,7 +15,7 @@ body {
 
 @media screen and (max-width: 480px) {
     .navbar-dark .navbar-brand {
-        font-size: 10px;
+        font-size: 24px;
     }
 
 }
@@ -76,7 +76,7 @@ body {
 
 @media screen and (max-width: 480px) {
     .hero {
-        height: 150px;
+        height: 300px;
     }
 }
 
