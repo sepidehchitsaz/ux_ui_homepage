@@ -99,8 +99,8 @@ body {
 @media screen and (max-width:600px) {
 
    .hello p {
-       font-size: 18px;
-       padding-right: 190px;
+       font-size: 16px;
+       padding-right: 160px;
        padding-top: 100px;
        line-height: 1;
    }
@@ -127,8 +127,8 @@ body {
 @media screen and (max-width:600px) {
 
    .firstline p {
-       font-size: 16px;
-       padding-left: 0px;
+       font-size: 14px;
+       padding-left: 30px;
        margin: 40px;
        line-height: 0;
    }
@@ -150,8 +150,8 @@ body {
 @media screen and (max-width:600px) {
 
    .secondline p {
-       font-size: 16px;
-       padding-left: 0px;
+       font-size: 14px;
+       padding-left: 30px;
        margin: 40px;
        line-height: 0;
        
