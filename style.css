@@ -175,7 +175,7 @@ body {
 
 @media screen and (max-width:600px) {
    .me img {
-       width:150px;
+       width:120px;
        margin-right: 10px;
        margin-top: 20px;
    }
@@ -232,7 +232,7 @@ body {
     .flexbox-container {
         flex-direction: column;
         margin-top: 550px;
-        margin-left: 40px;
+        margin-left: 20px;
         
       
         
@@ -252,6 +252,7 @@ body {
 @media screen and (max-width:600px) {
     .flexbox-item{
         margin: 25px 20px;
+
 
     }
     
@@ -365,6 +366,12 @@ h5 {
 
 }
 
+@media screen and (max-width:600px){
+    .container {
+        margin-left: -15px;
+    }
+}
+
 .img-responsive img{
     /* max-width: 100%; */
     width: 250px;
@@ -398,7 +405,7 @@ h5 {
 
 @media screen and (max-width:600px){
     .text-responsive p{
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
@@ -408,7 +415,7 @@ h5 {
 
 @media screen and (max-width:600px){
     .text-responsive{
-        padding-left: 30px;
+        padding-left: 20px;
 
     }
 }
@@ -445,7 +452,7 @@ h5 {
 
 @media screen and (max-width:600px){
     .container2{
-        margin-left: 20px;
+        margin-left: 10px;
         margin-right: 20px;
     }
 }
@@ -484,7 +491,7 @@ h5 {
 
 @media screen and (max-width:600px){
     .text-responsive2 p{
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 .text-responsive2 {
@@ -492,7 +499,7 @@ h5 {
 }
 @media screen and (max-width:600px){
     .text-responsive2{
-        padding-left: 30px;
+        padding-left: 20px;
     }
 }
 
@@ -528,7 +535,7 @@ h5 {
 
 @media screen and (max-width:600px){
     .container3{
-        margin-left: 30px;
+        margin-left: 20px;
         margin-right: 30px;
         margin-top: 790px;
     }
@@ -567,7 +574,7 @@ h5 {
 
 @media screen and (max-width:600px){
     .text-responsive3 p{
-        font-size: 16px;
+        font-size: 14px;
     }
 }
 
