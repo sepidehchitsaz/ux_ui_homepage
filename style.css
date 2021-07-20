@@ -79,9 +79,9 @@
 
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
     .hero {
-        height: 300px;
+        height: 350px;
     }
 }
 
@@ -104,8 +104,8 @@
 @media screen and (max-width:600px) {
 
    .hello p {
-       font-size: 18px;
-       padding-right: 150px;
+       font-size: 16px;
+       padding-right: 120px;
        padding-top: 170px;
        line-height: 1;
    }
@@ -132,7 +132,7 @@
 @media screen and (max-width:600px) {
 
    .firstline p {
-       font-size: 16px;
+       font-size: 14px;
        padding-left: 0px;
        margin: 40px;
        line-height: 0;
@@ -155,7 +155,7 @@
 @media screen and (max-width:600px) {
 
    .secondline p {
-       font-size: 16px;
+       font-size: 14px;
        padding-left: 0px;
        margin: 40px;
        line-height: 0;
@@ -182,7 +182,7 @@
    .me img {
        width:120px;
        position: relative;
-       left: -30%;
+       left: -20%;
        margin-top: 30px;
        
         /* margin-right: 10px;
