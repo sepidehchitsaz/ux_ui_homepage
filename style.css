@@ -137,8 +137,8 @@
    .firstline p {
        font-size: 18px;
        padding-left: 0px;
-       margin: 40px;
        line-height: 1;
+       margin-left: 10px;
    }
 }
 
@@ -160,8 +160,8 @@
    .secondline p {
        font-size: 18px;
        padding-left: 0px;
-       margin: 40px;
-       line-height: 1;
+       line-height: 2;
+       margin-left: 10px;
        
        
    }
