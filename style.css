@@ -1,19 +1,20 @@
 
   body {
     background-color: #0C1B1D;
-    margin: 0px;
-    height: 100vh;
+    /* margin: 0px;
+    height: 100vh; */
     
  } 
 
 
 
- .navbar-dark .navbar-brand{
+.navbar-dark .navbar-brand{
     color: #79C4CD;
     font-size: 36px;
     font-family: satisfy;
     margin-left: 30px;
-    /* font-weight: 300; */
+    font-weight: 300;
+    
 }
 
 @media screen and (max-width:600px) {
@@ -34,7 +35,9 @@
     font-family: oswald;
     font-size: 24px;
     color: #C9AA8B;
+    font-weight: 300;
     padding-right: 30px;
+
   
     
     
